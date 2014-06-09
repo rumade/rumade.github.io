@@ -9,3 +9,6 @@ permalink: /:year/:month/:day/:title.html
 
 markdown: redcarpet
 pygments: false
+
+gems:
+  - jekyll-sitemap
